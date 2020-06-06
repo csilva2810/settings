@@ -1,0 +1,15 @@
+{
+    "window.title": "${rootName}${separator}${activeFolderShort}/${activeEditorShort}",
+    "workbench.colorTheme": "Rosé Pine Next",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 18,
+    "editor.letterSpacing": 0.2,
+    "workbench.activityBar.visible": false,
+    "editor.rulers": [90],
+    "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+}
