@@ -12,4 +12,11 @@
     "workbench.activityBar.visible": false,
     "editor.rulers": [90],
     "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+    "color-highlight.enable": true,
+    "color-highlight.languages": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+    ]
 }
