@@ -1,5 +1,5 @@
 {
-    "window.title": "${rootName}${separator}${activeFolderShort}/${activeEditorShort}",
+    "window.title": "${rootName}${separator}${activeFolderMedium}/${activeEditorShort}",
     "workbench.colorTheme": "Rosé Pine Next",
     "window.zoomLevel": 1,
     "workbench.iconTheme": "Monokai Pro Icons",
@@ -18,5 +18,8 @@
         "javascriptreact",
         "typescript",
         "typescriptreact",
-    ]
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
